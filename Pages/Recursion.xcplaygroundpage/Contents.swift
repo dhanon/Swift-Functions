@@ -1,5 +1,6 @@
 //: [Previous](@previous)
-
+//n! = n × (n-1) × (n-2) × (n-3) × ….× 3 × 2 × 1
+//factorial of that number minus 1. It is given by: n! = n. (n-1) !
 import Foundation
 func factorial(number: Int) -> Int {
     
